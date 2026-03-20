@@ -1,0 +1,16 @@
+pyproject.toml
+crew/__init__.py
+crew/agents.py
+crew/crew.py
+crew/tasks.py
+prompts/__init__.py
+talent_discovery_backend.egg-info/PKG-INFO
+talent_discovery_backend.egg-info/SOURCES.txt
+talent_discovery_backend.egg-info/dependency_links.txt
+talent_discovery_backend.egg-info/requires.txt
+talent_discovery_backend.egg-info/top_level.txt
+tests/__init__.py
+tests/test_scoring.py
+tools/__init__.py
+tools/github_tool.py
+tools/resume_tool.py

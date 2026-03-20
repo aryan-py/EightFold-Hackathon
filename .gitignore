@@ -1,0 +1,24 @@
+# Secrets
+backend/.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+
+# Database
+backend/talent.db
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+
+# Project-specific excludes
+Roadmap/
+.claude/
