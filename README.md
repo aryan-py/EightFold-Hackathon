@@ -96,7 +96,7 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -e backend/
 
 # Create the .env file
-cp backend/.env.example backend/.env   # then fill in your keys
+cp backend/.env backend/.env   # then fill in your keys
 ```
 
 Edit `backend/.env`:
